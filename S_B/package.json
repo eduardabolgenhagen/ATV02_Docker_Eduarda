@@ -1,0 +1,24 @@
+{
+  "name": "atv02_docker_eduarda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "serve": "nodemon idex.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardabolgenhagen/ATV02_Docker_Eduarda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardabolgenhagen/ATV02_Docker_Eduarda/issues"
+  },
+  "homepage": "https://github.com/eduardabolgenhagen/ATV02_Docker_Eduarda#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
