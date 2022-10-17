@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/eduardabolgenhagen/ATV02_Docker_Eduarda#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "firebase": "^9.12.1"
   }
 }
